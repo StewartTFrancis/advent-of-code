@@ -12,7 +12,7 @@ namespace ConsoleTest
         {}
         static void Main(string[] args)
         {
-            string input = "wtnhxymk";
+            string input = "input string here";
             int step = 100000;
             try
             {

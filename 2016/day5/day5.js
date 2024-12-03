@@ -1,5 +1,5 @@
 var md5 = require('md5'); /* Yes, I know this moves from 'runs anywhere' javascript to node specific... but I'm not writing an MD5 implementation. */
-var inpt = ['wtnhxymk'];
+var inpt = ['input string here'];
 
 ((input) => {
 	

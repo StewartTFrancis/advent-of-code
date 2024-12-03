@@ -1,5 +1,6 @@
 # Don't check in dayXXX.txt files
 day*.txt
+Day*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
